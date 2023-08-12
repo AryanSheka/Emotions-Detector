@@ -1,0 +1,13 @@
+pandas
+tensorflow
+keras
+numpy
+mysql-connector-python
+scikit-learn
+dataclasses
+dill
+flask
+nltk
+regex
+scikeras[tensorflow]
+-e .
