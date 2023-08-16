@@ -20,7 +20,7 @@ pip install -r 'requirements.txt'
 ```
 
 ## Loading data
-Data loading is done from a MYSQL database in the local system in the [data ingestion](https://github.com/AryanSheka/Financial-Sentiment-Analysis/blob/744c3182201ac3606a5189a35567d6d009c0a8a9/src/Components/data_ingestion.py) file and the train, test and raw data are stored in the [artifacts](https://github.com/AryanSheka/Financial-Sentiment-Analysis/tree/744c3182201ac3606a5189a35567d6d009c0a8a9/artifacts) folder in the form of a csv file.
+Data loading is done from a MySQL database in the local system in the [data ingestion](https://github.com/AryanSheka/Financial-Sentiment-Analysis/blob/744c3182201ac3606a5189a35567d6d009c0a8a9/src/Components/data_ingestion.py) file and the train, test and raw data are stored in the [artifacts](https://github.com/AryanSheka/Financial-Sentiment-Analysis/tree/744c3182201ac3606a5189a35567d6d009c0a8a9/artifacts) folder in the form of a csv file.
 
 The original dataset is obtained from [dair.ai](https://huggingface.co/datasets/dair-ai/emotion/viewer/split/train?row=48)
 
